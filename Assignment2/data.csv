@@ -1,0 +1,236 @@
+Country;Max New Cases;Date
+Afghanistan;3636;2021-07-19
+Albania;1239;2021-02-09
+Algeria;2102;2020-11-29
+Andorra;299;2020-10-13
+Angola;1493;2021-10-01
+Anguilla;1;2020-11-23
+Antigua and Barbuda;299;2021-09-17
+Argentina;35543;2021-05-18
+Armenia;4527;2020-10-25
+Aruba;176;2020-09-17
+Australia;2744;2021-10-13
+Austria;10368;2020-11-13
+Azerbaijan;7319;2021-09-10
+Bahamas;527;2021-08-16
+Bahrain;3273;2021-05-29
+Bangladesh;16230;2021-07-28
+Barbados;413;2021-10-04
+Belarus;1998;2021-10-02
+Belgium;22188;2020-10-28
+Belize;1382;2020-12-03
+Benin;2566;2021-09-01
+Bermuda;12;2020-11-25
+Bhutan;100;2021-05-29
+Bolivia;7072;2021-06-10
+Bonaire Sint Eustatius and Saba;21;2020-09-29
+Cape Verde;491;2021-04-18
+Bosnia and Herzegovina;3755;2021-03-29
+Botswana;8530;2021-08-02
+Brazil;150106;2021-09-18
+British Virgin Islands;16;2020-09-05
+Brunei;580;2021-09-26
+Bulgaria;7560;2021-04-07
+Burkina Faso;315;2020-12-12
+Burundi;2167;2021-09-22
+Cambodia;1130;2021-06-30
+Cameroon;9668;2021-04-01
+Canada;11381;2021-09-27
+Cayman Islands;10;2020-05-23
+Central African Republic;4044;2021-08-10
+Chad;72;2021-03-06
+Chile;36179;2020-06-18
+China;831;2020-11-17
+Colombia;33594;2021-06-26
+Comoros;106;2021-01-28
+Congo;649;2020-09-02
+Costa Rica;6952;2021-09-14
+Cote d'Ivoire;767;2021-03-25
+Croatia;4620;2020-12-10
+Cuba;9772;2021-08-17
+Curacao;117;2020-11-27
+Cyprus;1684;2021-07-24
+Czech Republic;15731;2020-11-05
+Democratic Republic of Congo;583;2021-07-18
+Denmark;3557;2020-12-12
+Djibouti;383;2021-09-28
+Dominica;386;2021-08-22
+Dominican Republic;2147;2020-09-06
+Ecuador;8261;2020-09-07
+Egypt;1774;2020-06-20
+El Salvador;2987;2021-10-06
+Equatorial Guinea;1750;2020-08-02
+Eritrea;137;2021-02-15
+Estonia;1956;2021-03-11
+Ethiopia;2372;2021-04-01
+Faeroe Islands;50;2020-08-08
+Falkland Islands;1;2020-11-11
+Fiji;1301;2021-07-29
+Finland;1322;2021-08-08
+France;117900;2021-04-11
+French Polynesia;1384;2020-11-04
+Gabon;640;2021-09-30
+Gambia;587;2021-08-03
+Georgia;7592;2020-11-21
+Germany;36153;2020-12-22
+Ghana;1975;2021-08-02
+Gibraltar;31;2020-10-21
+Greece;4614;2021-08-10
+Greenland;1;2020-05-29
+Grenada;522;2021-09-16
+Guam;421;2020-11-11
+Guatemala;6595;2021-07-24
+Guernsey;4;2020-11-07
+Guinea;370;2021-08-07
+Guinea-Bissau;160;2021-08-19
+Guyana;529;2021-09-09
+Haiti;542;2021-06-23
+Honduras;4712;2021-07-20
+Hong Kong;17;2021-08-27
+Hungary;11132;2021-03-20
+Iceland;170;2021-08-11
+India;392488;2021-05-01
+Indonesia;51952;2021-07-17
+Iran;50228;2021-08-17
+Iraq;13515;2021-07-28
+Ireland;3765;2021-09-16
+Isle of Man;3;2020-10-27
+Israel;22291;2021-09-08
+Italy;40902;2020-11-14
+Jamaica;1430;2021-08-23
+Japan;25892;2021-08-20
+Jersey;35;2020-11-27
+Jordan;9535;2021-03-17
+Kazakhstan;19246;2020-07-01
+Kenya;2135;2020-11-13
+Kosovo;4257;2021-03-29
+Kuwait;1913;2021-07-24
+Kyrgyzstan;11505;2020-07-18
+Laos;952;2021-08-25
+Latvia;1231;2021-02-03
+Lebanon;3939;2021-03-09
+Lesotho;695;2021-08-01
+Liberia;193;2021-06-30
+Libya;4322;2021-08-01
+Liechtenstein;69;2020-11-24
+Lithuania;4551;2020-12-03
+Luxembourg;1561;2020-12-10
+Macedonia;1498;2020-10-29
+Madagascar;1201;2021-03-13
+Malawi;867;2021-07-20
+Malaysia;24599;2021-08-26
+Maldives;1960;2021-05-22
+Mali;413;2021-04-08
+Malta;577;2020-11-25
+Marshall Islands;3;2020-11-18
+Mauritania;590;2020-06-21
+Mauritius;1529;2021-08-30
+Mexico;32244;2021-07-24
+Moldova;2273;2021-03-24
+Monaco;44;2021-02-02
+Mongolia;7394;2021-09-05
+Montenegro;874;2020-11-05
+Montserrat;1;2020-07-26
+Morocco;12039;2021-08-05
+Mozambique;2894;2021-07-24
+Myanmar;6093;2021-07-21
+Namibia;3268;2021-06-30
+Nepal;9198;2021-05-17
+Netherlands;11163;2021-07-17
+New Caledonia;3;2020-09-04
+New Zealand;44;2021-09-28
+Nicaragua;718;2021-09-28
+Niger;93;2020-12-08
+Nigeria;1823;2021-08-19
+Northern Mariana Islands;6;2020-09-20
+Norway;1737;2020-11-17
+Oman;5484;2021-07-26
+Pakistan;10436;2021-04-25
+Palestine;2884;2021-04-08
+Panama;3164;2020-12-22
+Papua New Guinea;524;2021-03-28
+Paraguay;3836;2021-04-17
+Peru;20599;2021-05-08
+Philippines;26555;2021-09-29
+Poland;35253;2021-04-01
+Portugal;16432;2021-01-28
+Puerto Rico;1990;2020-11-28
+Qatar;2355;2020-05-31
+Romania;11049;2021-09-28
+Russia;45188;2020-11-17
+Rwanda;3072;2021-07-26
+Saint Kitts and Nevis;72;2021-06-12
+Saint Lucia;389;2021-03-02
+Saint Vincent and the Grenadines;158;2021-02-02
+San Marino;76;2020-11-12
+Sao Tome and Principe;142;2020-05-27
+Saudi Arabia;5861;2021-07-21
+Senegal;1722;2021-07-18
+Serbia;9983;2021-03-30
+Seychelles;1012;2021-05-13
+Sierra Leone;86;2020-05-25
+Singapore;2268;2021-09-29
+Sint Maarten (Dutch part);31;2020-08-16
+Slovakia;3707;2020-12-12
+Slovenia;2612;2020-10-29
+Solomon Islands;5;2020-11-04
+Somalia;348;2021-09-23
+South Africa;30928;2021-07-29
+South Korea;3270;2021-09-24
+South Sudan;348;2021-02-22
+Spain;74347;2021-03-02
+Sri Lanka;8647;2021-08-20
+Sudan;1099;2021-04-14
+Suriname;844;2021-09-20
+Swaziland;147;2020-07-30
+Sweden;22319;2020-12-22
+Switzerland;21842;2020-11-03
+Syria;442;2021-09-25
+Taiwan;723;2021-05-22
+Tajikistan;463;2020-05-29
+Tanzania;508;2021-07-29
+Thailand;23418;2021-08-13
+Timor;293;2021-08-15
+Togo;523;2021-08-20
+Trinidad and Tobago;708;2021-05-21
+Tunisia;9286;2021-07-10
+Turkey;824907;2020-12-11
+Turks and Caicos Islands;48;2020-08-26
+Uganda;21324;2021-08-23
+Ukraine;29458;2021-03-27
+United Arab Emirates;3977;2021-02-03
+United Kingdom;54183;2021-07-17
+United States;319456;2021-08-20
+United States Virgin Islands;92;2020-08-12
+Uzbekistan;1156;2020-08-18
+Uruguay;5974;2021-05-29
+Vanuatu;2;2021-03-08
+Vatican;7;2020-10-13
+Venezuela;2303;2021-05-16
+Vietnam;16954;2021-08-03
+Wallis and Futuna;1;2020-10-17
+Western Sahara;242;2020-07-14
+Yemen;305;2020-12-08
+Zambia;3394;2021-06-17
+Zimbabwe;2705;2021-07-21
+World;1489020;2020-12-11
+International;0;2020-05-23
+Africa;65100;2021-07-29
+Asia;497276;2021-05-01
+European Union;268622;2021-03-25
+Czechia;16816;2021-03-03
+North Macedonia;1511;2021-03-31
+South America;186399;2021-06-23
+North America;366954;2021-08-20
+Eswatini;1068;2021-08-04
+Europe;316393;2021-03-25
+Samoa;1;2021-02-15
+Micronesia (country);0;2021-02-24
+Oceania;2886;2021-09-29
+Macao;0;2021-02-18
+Northern Cyprus;0;2021-04-14
+Kiribati;0;2021-05-29
+Palau;1;2021-08-22
+Niue;0;2021-08-09
+Tonga;0;2021-08-23
+Cook Islands;0;2021-08-30
